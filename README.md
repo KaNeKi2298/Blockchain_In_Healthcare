@@ -29,6 +29,6 @@ the other laptops  and hence the peer to peer connection of block chain is estab
 ```All systems should be connected to same Wi-Fi network```
 
  ## Team
- - [Anish Dey](https://github.com/Moozzaart23)
  - [Akhil Agrawal](https://github.com/KaNeKi2298)
- - [Amogh Saxena](https://github.com/amogh-saxena)
+ - [Anish Dey](https://github.com/Moozzaart23)
+
